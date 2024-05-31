@@ -3,7 +3,7 @@ setlocal
 
 rem Define repository URL and target directory
 set "repo_url=https://github.com/ToastyBuns3939/shinysong-translate"
-set "target_dir=C:\Users\%USERNAME%\SONGforPRISM"
+set "target_dir=D:\dmm game\SONGforPRISM
 
 rem Navigate to target directory
 cd /d "%target_dir%" || exit /b
